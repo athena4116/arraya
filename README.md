@@ -1,2 +1,2 @@
-# manta-ray
+# arraya
  the oofed programming language
